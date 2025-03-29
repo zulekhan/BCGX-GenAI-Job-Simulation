@@ -1,4 +1,5 @@
 # **BCG GenAI Job Simulation - Forage (January 2025)**
+![bcgx-logo-color-positive-RGB](https://github.com/user-attachments/assets/da3b964a-4622-4db3-93fd-106f405f1cca) ![Forage](https://github.com/user-attachments/assets/3bdc88d8-a100-4db8-9abe-5421e41280a2)
 
 ## **Project Overview**
 
@@ -18,4 +19,7 @@ This project is part of the **BCG GenAI Job Simulation** on Forage, where I deve
 - Logic
 - Natural Language Processing (NLP)
 - Python
+
+## **Learn More**
+[Click here to view the BCG X Generative AI Simulation on Forage](https://www.theforage.com/simulations/bcg/gen-ai-anlo)
 
