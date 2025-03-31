@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 *.nbconvert.ipynb
+.DS_Store
+*.html
